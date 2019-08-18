@@ -6,5 +6,5 @@ In logistic regression prediction is classified in two ways.
 # ANN
 In ann.py file the classification is done on all the 14 positions.
 
-#Dataset
+# Dataset
 https://www.kaggle.com/thec03u5/fifa-18-demo-player-dataset
